@@ -4,7 +4,7 @@
 
 The TechViews plugin is a powerful tool designed for WordPress sites to track and dynamically display the top-viewed blog posts in a section called "Hot Right Now". This plugin refreshes every hour, offering visitors real-time insights into trending content.
 
-please visit the [screenshots folder](/screenshots/). This folder contains a variety of images showcasing different aspects and functionalities of the "Hot Right Now" feature as it appears on a live site. Explore this folder to see how the plugin will look and operate in various scenarios.
+Please visit the [screenshots folder](/screenshots/). This folder contains a variety of images showcasing different aspects and functionalities of the "Hot Right Now" feature as it appears on a live site. Explore this folder to see how the plugin will look and operate in various scenarios.
 
 
 ## Table of Contents
