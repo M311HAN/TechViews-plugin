@@ -59,4 +59,4 @@ Feel free to fork this repository and contribute back by submitting pull request
 
 This plugin is open-source and free to use under the [GPLv2 license](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
 
-Enjoy using TechViews to enhance your WordPress site's engagement! Created by https://github.com/M311HAN
+Enjoy using TechViews to enhance your WordPress site's engagement! This project was created by Melihhan (https://github.com/M311HAN)
